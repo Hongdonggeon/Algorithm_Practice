@@ -1,4 +1,4 @@
-n, m, k = map(int, input().split()) // 한번에 입력받기
+n, m, k = map(int, input().split())
 array = list(map(int, input().split()))
 
 array.sort()
